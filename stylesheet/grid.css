@@ -1,0 +1,27 @@
+.grid table {
+    border-collapse: collapse;
+}
+
+.grid td {
+    border: 1px solid black;
+    width: 20px; 
+    height: 20px; 
+    text-align: center;
+}
+
+
+.color td {
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.wholepage{
+    display:flex;
+}
+
+#infoText {
+    display: none;
+    position: absolute;
+}
